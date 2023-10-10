@@ -12,6 +12,11 @@ Note: This problem statement and dataset are taken from <a href="https://www.kag
 - Keras
 - Sequential
 
+## Network Parameter:
+- Rectifier Linear Unit
+- Adam optimizer
+- Sigmoid on Final output
+- Binary CrossEntropy loss
 
 # Model summary
   ![image](https://github.com/SohagMollik/image-classification-dogs-v-cats-CNN/assets/74552043/61ac1818-861e-475e-92d2-fe167090e3b4)
