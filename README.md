@@ -1,5 +1,5 @@
 ## Problem statement
-In this Section, we are implementing a Convolution Neural Network(CNN) Classifier for Classifying dog and cat images. The Total number of images available for training is 20,000 and final testing is done on separate 5000 images.
+In this Section, I am trying to implement a Convolution Neural Network(CNN) Classifier for Classifying dog and cat images. The Total number of images available for training is 20,000 and final testing is done on separate 5000 images.
 Note: This problem statement and dataset are taken from <a href="https://www.kaggle.com/datasets/salader/dogs-vs-cats?select=train">this</a> Kaggle link.
 
 ## Dependencies
